@@ -10,6 +10,8 @@ To store recent searches of cities the user has searched.
 
 ## Live Deployment Link
 
+- [Mack's Weather Dashboard](https://mackoyler.github.io/weather-dashboard/)
+
 ## Devevlopment Team
 -[Mack Oyler](https://www.linkedin.com/in/mack-oyler/)
 
